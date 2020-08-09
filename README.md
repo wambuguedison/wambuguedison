@@ -1,5 +1,5 @@
 ### Edison Waweru is me. 
-![poster](devedd_poster_v2.png)
+![poster](https://raw.githubusercontent.com/wambuguedison/wambuguedison/master/devedd_poster_v2.png)
 
 <!--
 **wambuguedison/wambuguedison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
