@@ -18,5 +18,7 @@ Here are some ideas to get you started:
  😄 Pronouns {he/him, they}
  
  #### Check me out :-
- <a href="https://dev.to/wambuguedison"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" align="left" height="48" width="48" ></a>
+ <a href="https://dev.to/wambuguedison"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="48" width="48" ></a>  
+ 
+ <a href="https://www.codewars.com/wambuguedison"><img src="https://www.codewars.com/users/wambuguedison/badges/large"></a>
  
