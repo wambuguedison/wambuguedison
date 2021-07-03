@@ -6,19 +6,24 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on https://shooga.me
-🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on https://shooga.me
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-💬 Ask me about PWA's, React, GraphQl, AWS
-📫 How to reach me: wambuguedison@gmail.com
+- 💬 Ask me about PWA's, React, GraphQl, AWS
+- 📫 How to reach me: wambuguedison@gmail.com
 -: ...
 - ⚡ Fun fact: ...
 -->
  😄 Pronouns {he/him, they}
- 
+- 🔭 I’m currently working on https://shooga.me
+- 🌱 I’m currently learning DevOps
+- 💬 Ask me about PWA's, React, GraphQl, AWS
+- 📫 How to reach me: wambuguedison@gmail.com
+- 
  #### Check me out :-
  Check Out my Gists <a href="https://gist.github.com/wambuguedison">Here</a>
+ -
  <a href="https://dev.to/wambuguedison"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="48" width="48" ></a>  
  
  <a href="https://www.codewars.com/wambuguedison"><img src="https://www.codewars.com/users/wambuguedison/badges/large"></a>
