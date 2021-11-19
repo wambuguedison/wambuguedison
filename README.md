@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 -: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns {he/him, they}
+- 😄 Pronouns {he/him}
 - 🔭 I’m currently working on <a href="https://shooga.me">Shooga</a>
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about PWA's, React, GraphQl, AWS
 - 📫 How to reach me: wambuguedison@gmail.com
+
+<!-- <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/> -->
+<img src="https://github.com/wambuguedison/wambuguedison/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 
  #### Check me out :-
  
