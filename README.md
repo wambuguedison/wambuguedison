@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wambuguedison@gmail.com
 
 <!-- <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/> -->
-<img src="https://github.com/wambuguedison/wambuguedison/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/wambuguedison/wambuguedison/blob/main/images/stat.svg" alt="Eddie's WakaTime Activity"/>
 
 
  #### Check me out :-
