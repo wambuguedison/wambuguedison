@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <!-- <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/> -->
 <img src="https://raw.githubusercontent.com/wambuguedison/wambuguedison/ccb75812b2491d4cfea1db30bec29ee03cebacbb/images/stat.svg" alt="Eddie's WakaTime Activity"/>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
  #### Check me out :-
  
