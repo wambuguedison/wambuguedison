@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, GraphQl, AWS
 - 📫 How to reach me: wambuguedison@gmail.com
 
-<!-- <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/> 
-<img src="https://raw.githubusercontent.com/wambuguedison/wambuguedison/ccb75812b2491d4cfea1db30bec29ee03cebacbb/images/stat.svg" alt="Eddie's WakaTime Activity"/>
-
-[![Eddie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wambuguedison)](https://github.com/wambuguedison/github-readme-stats)-->
 
 
 
