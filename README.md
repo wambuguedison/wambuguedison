@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns {he/him}
-- 🔭 I’m currently working on <a href="https://shooga.me">Shooga</a>
-- 🌱 I’m currently learning DevOps
-- 💬 Ask me about PWA's, React, GraphQl, AWS
+- 🔭 I’m currently working on Stories with Edd
+- 🌱 I’m a beginner in DevOps
+- 🌱 I'm learning JamStack
+- 💬 Ask me about React, GraphQl, AWS
 - 📫 How to reach me: wambuguedison@gmail.com
 
 <!-- <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/> -->
